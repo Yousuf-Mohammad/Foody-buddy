@@ -5,18 +5,18 @@ h1{
     font-size: 50px;
 }
 
-.color{
-    color: rgb(15, 125, 216);
+.rongwala{
+    color: rgb(18, 103, 129);
 }
 
 
 
-.link-button{
+.button{
     text-decoration: none;
-    background-color: rgb(1, 117, 184);
+    background-color: rgb(18, 103, 129);
     padding: 10px 50px;
     border-radius: 10px;
-    background-image: linear-gradient(rgb(131, 110, 255), rgb(0, 0, 0));
+    background-image: linear-gradient(rgb(18, 103, 129), rgb(0, 0, 0));
     color: ghostwhite;
     font-weight: 700;
     box-shadow: 5px 6px 3px grey;
@@ -32,7 +32,7 @@ h1{
 }
 
 .About-us{
-    color: rgb(3, 192, 250);
+    color: rgb(18, 103, 129);
     text-align: center;
 }
 
@@ -58,6 +58,7 @@ h1{
     color: rgb(20, 75, 148);
     margin-top: -30px;
 }
+
 #middle{
     text-align: center;
 }
@@ -89,7 +90,7 @@ h1{
 }
 .boxs h2{
     text-align: center;
-    color: chocolate;
+    color: rgb(20, 75, 148);
     font-size: 40px;
 }
 .boxs p{
