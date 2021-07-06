@@ -1,6 +1,54 @@
 body{
     font-family: 'Staatliches', cursive;
 }
+h1{
+    font-size: 50px;
+}
+
+.color{
+    color: rgb(15, 125, 216);
+}
+
+
+
+.link-button{
+    text-decoration: none;
+    background-color: rgb(1, 117, 184);
+    padding: 10px 50px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(131, 110, 255), rgb(0, 0, 0));
+    color: ghostwhite;
+    font-weight: 700;
+    box-shadow: 5px 6px 3px grey;
+}
+
+.First-Half{width: 50%;
+    padding: 2%;
+    margin-top: 10px;
+}
+
+.First-Half img{  width: 100%;
+    margin-top: 5px;
+}
+
+.About-us{
+    color: rgb(3, 192, 250);
+    text-align: center;
+}
+
+.About{
+    font-size: 25px;
+    text-align: justify;
+}
+
+.Second-background{
+    background-image: url(images/Frame\ 59.jpg);
+    
+}
+
+
+
+
 .cards h1{
     text-align: center;
     font-size: 60px;
